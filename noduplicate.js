@@ -7,7 +7,6 @@ function unique(arrayitem){
 //         console.log(item);
 if(uni.includes(item)===false){
       uni.push(item);
-      uni.includes('abul');
      }                      
    }
    return uni;

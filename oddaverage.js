@@ -3,7 +3,7 @@ let sum=0,avg=0;
 let count=0;
 function oddavg(number){
  console.log(number);
-console.log( number.includes(12));  
+// console.log( number.includes(12));  
  for(const num of number){
      if(num%2===1){   
         count++;
